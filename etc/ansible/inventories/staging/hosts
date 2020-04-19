@@ -1,0 +1,7 @@
+[testserver]
+localhost
+
+[testserver:vars]
+ansible_port=22
+ansible_user=root
+ansible_ssh_private_key_file=~/.ssh/id_rsa

@@ -1,0 +1,7 @@
+---
+# file: roles/common/tasks/main.yml
+
+- name: be sure ntp is installed
+  yum:
+    name: ntp
+    state: present
