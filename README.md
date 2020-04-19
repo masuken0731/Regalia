@@ -1,2 +1,2 @@
 # Regalia
-インフラ業務効率化に繋がるツールの検証
+Repository for testing tools of Infrastructure as Code.
