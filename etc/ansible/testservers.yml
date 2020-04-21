@@ -1,6 +1,3 @@
----
-  # file: testserver.yml
-  
-  - hosts: testserver
-    roles:
-      - common
+- hosts: testserver
+  roles:
+    - common
